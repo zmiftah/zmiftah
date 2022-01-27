@@ -59,6 +59,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3440](https://github.com/MicrosoftDocs/powerbi-docs/issues/3440) in [MicrosoftDocs/powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs)
 <!--END_SECTION:activity-->
 
 </details>
