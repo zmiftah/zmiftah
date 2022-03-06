@@ -56,7 +56,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3440](https://github.com/MicrosoftDocs/powerbi-docs/issues/3440) in [MicrosoftDocs/powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs)
+1. 🎉 Merged PR [#2](https://github.com/pkpudev/yii2-components/pull/2) in [pkpudev/yii2-components](https://github.com/pkpudev/yii2-components)
 <!--END_SECTION:activity-->
 
 </details>
