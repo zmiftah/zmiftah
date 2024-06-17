@@ -6,7 +6,7 @@
 ## I'm a Husband, Father, Developer, and Learner!!
 
 - 🔭 I will launch my Blog: [Personal Blog!][website]!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Go
 - 👯 I’m looking forward to collaborate with other developers
 - 🥅 2024 Goals: Being more independent 
 
